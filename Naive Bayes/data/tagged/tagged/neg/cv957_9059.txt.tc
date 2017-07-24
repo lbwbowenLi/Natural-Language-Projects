@@ -1,0 +1,37 @@
+recently_RB_B-ADVP one_CD_B-NP night_NN_I-NP a_DT_B-NP young_JJ_I-NP director_NN_I-NP named_JJ_I-NP baz_NN_I-NP luhrmann_MD_B-VP couldn't_RB_I-VP sleep_VB_I-VP ._._B-O
+he_PRP_B-NP tumbled_VBD_B-VP out_IN_B-PP of_IN_B-PP bed_NN_B-NP and_CC_B-O moved_VBD_B-VP over_IN_B-PP to_TO_B-PP the_DT_B-NP television_NN_I-NP where_WRB_B-ADVP he_PRP_B-NP watched_VBD_B-VP mtv_NNS_B-NP for_IN_B-PP an_DT_B-NP hour_NN_I-NP ._._B-O
+then_RB_B-ADVP he_PRP_B-NP moved_VBD_B-VP to_TO_B-PP his_PRP$_B-NP kitchen_NN_I-NP where_WRB_B-ADVP he_PRP_B-NP spent_VBD_B-VP the_DT_B-NP same_JJ_I-NP amount_NN_I-NP of_IN_B-PP time_NN_B-NP eating_VBG_B-VP spoiled_VBN_B-NP food_NN_I-NP ._._B-O
+then_RB_B-ADVP he_PRP_B-NP took_VBD_B-VP down_RP_B-PRT a_DT_B-NP volume_NN_I-NP of_IN_B-PP shakespeare's_JJ_B-NP work_NN_I-NP and_CC_B-O read_VB_B-VP it_PRP_B-NP cover_VB_B-VP to_TO_I-VP cover_VB_I-VP -_:_B-O never_RB_B-VP really_RB_I-VP paying_VBG_I-VP attention_NN_B-NP to_TO_B-PP the_DT_B-NP words_NNS_I-NP or_CC_I-NP plot_NN_I-NP ._._B-O
+and_CC_B-O then_RB_B-ADVP ,_,_B-O as_IN_B-PP a_DT_B-NP climax_NN_I-NP ,_,_B-O he_PRP_B-NP took_VBD_B-VP out_RP_B-PRT his_PRP$_B-NP video_NN_I-NP camera_NN_I-NP and_CC_B-O pressed_VBD_B-VP the_DT_B-NP "_NN_I-NP on_IN_B-PP "_NN_B-NP button_NN_I-NP ._._B-O
+the_DT_B-NP result_NN_I-NP ?_._B-O
+william_NN_B-NP shakespeare's_JJ_I-NP romeo_NN_I-NP +_)_B-O juliet_NN_B-NP -_:_B-O the_DT_B-NP worst_JJS_I-NP film_NN_I-NP ever_RB_B-ADVP made_VBN_B-VP and_CC_B-O a_DT_B-NP complete_JJ_I-NP failure_NN_I-NP ._._B-O
+though_RB_B-ADVP ,_,_B-O to_TO_B-VP be_VB_I-VP fair_JJ_B-ADJP ,_,_B-O an_DT_B-NP interesting_JJ_I-NP complete_JJ_I-NP failure_NN_I-NP ._._B-O
+the_DT_B-NP idea_NN_I-NP at_IN_B-PP the_DT_B-NP film's_JJ_I-NP core_NN_I-NP is_VBZ_B-VP to_TO_B-VP make_VB_I-VP shakespeare_NN_B-NP appealing_JJ_B-ADJP to_TO_B-PP the_DT_B-NP crowds_NNS_I-NP ._._B-O
+this_DT_B-NP is_VBZ_B-VP done_VBN_I-VP by_IN_B-PP moving_VBG_B-VP the_DT_B-NP camera_NN_I-NP around_RP_B-PRT at_IN_B-PP a_DT_B-NP rapid_JJ_I-NP rate_NN_I-NP so_RB_B-SBAR that_IN_I-SBAR we_PRP_B-NP can't_MD_B-VP see_VB_I-VP what_WP_B-NP is_VBZ_B-VP going_VBG_I-VP on_RP_B-PRT ._._B-O
+and_CC_B-O filming_VBG_B-VP the_DT_B-NP dialogue_NN_I-NP in_IN_B-PP voice_NN_B-NP over_RP_B-PRT ._._B-O
+and_CC_B-O shooting_VBG_B-VP leonardo_JJ_B-NP dicaprio_NN_I-NP like_IN_B-PP a_DT_B-NP calvin_JJ_I-NP klein_JJ_I-NP model_NN_I-NP ._._B-O
+and_CC_B-O making_VBG_B-VP the_DT_B-NP frame_NN_I-NP go_VB_B-VP still_RB_B-ADVP while_IN_B-SBAR flashing_VBG_B-VP the_DT_B-NP character's_JJ_I-NP name_NN_I-NP at_IN_B-PP the_DT_B-NP bottom_NN_I-NP ._._B-O
+and_CC_B-O filming_VBG_B-VP long_JJ_B-NP tedious_JJ_I-NP action_NN_I-NP sequences_NNS_I-NP in_IN_B-PP slow_JJ_B-NP motion_NN_I-NP ._._B-O
+i_PRP_B-NP mean_VBP_B-VP ,_,_B-O man_NN_B-NP ,_,_B-O this_DT_B-NP is_VBZ_B-VP the_DT_B-NP 90s_CD_I-NP ,_,_I-NP dude_NN_I-NP ._._B-O
+however_RB_B-ADVP i've_JJ_B-VP seen_VBN_I-VP terrible_JJ_B-NP films_NNS_I-NP that_WDT_B-NP are_VBP_B-VP fun_JJ_B-ADJP to_TO_B-VP watch_VB_I-VP ._._B-O
+(_(_B-O examples_NNS_B-NP are_VBP_B-VP batman_NN_B-NP and_CC_B-O robin_NN_B-NP and_CC_B-O the_DT_B-NP island_NN_I-NP of_IN_B-PP doctor_NN_B-NP moreau_NNS_I-NP ._._B-O
+)_)_B-O that_DT_B-NP rule_VBP_B-VP doesn't_RB_I-VP apply_VB_I-VP here_RB_B-ADVP ._._B-O
+this_DT_B-NP is_VBZ_B-VP a_DT_B-NP film_NN_I-NP that_WDT_B-NP takes_VBZ_B-VP itself_PRP_B-NP seriously_RB_B-ADVP ._._B-O
+that_DT_B-NP is_VBZ_B-VP it's_JJ_B-NP major_JJ_I-NP fault_NN_I-NP ._._B-O
+another_DT_B-NP problem_NN_I-NP was_VBD_B-VP pointed_VBN_I-VP out_RP_B-PRT by_IN_B-PP my_PRP$_B-NP friend_NN_I-NP ,_,_B-O alex_NN_B-NP (_(_B-O who_WP_B-NP was_VBD_B-VP singing_VBG_I-VP songs_NNS_B-NP by_IN_B-PP leonard_NN_B-NP bernstein_NN_I-NP throughout_IN_B-PP ._._B-O
+)_)_B-O ;_:_I-O the_DT_B-NP original_JJ_I-NP play_NN_I-NP is_VBZ_B-VP a_DT_B-NP powerful_JJ_I-NP piece_NN_I-NP of_IN_B-PP work_NN_B-NP because_IN_B-SBAR the_DT_B-NP author_NN_I-NP remained_VBD_B-VP neutral_JJ_B-ADJP and_CC_B-O didn't_RB_B-VP take_VB_I-VP sides_NNS_B-NP ._._B-O
+here_RB_B-ADVP it's_VBZ_B-VP clear_JJ_B-ADJP that_IN_B-SBAR we_PRP_B-NP are_VBP_B-VP supposed_VBN_I-VP to_TO_I-VP side_VB_I-VP with_IN_B-PP romeo_NN_B-NP ._._B-O
+(_(_B-O just_RB_B-ADVP look_VB_B-VP at_IN_B-PP the_DT_B-NP way_NN_I-NP they_PRP_B-NP film_VBP_B-VP him_PRP_B-NP ._._B-O
+)_)_B-O from_IN_B-PP the_DT_B-NP begining_NN_I-NP he's_NN_I-NP our_PRP$_I-NP hero_NN_I-NP and_CC_B-O this_DT_B-NP doesn't_JJ_I-NP work_NN_I-NP ._._B-O
+and_CC_B-O dicaprio's_JJ_B-NP awful_JJ_I-NP performance_NN_I-NP doesn't_NN_I-NP help_NN_I-NP ._._B-O
+luhrmann_NN_B-NP never_RB_B-ADVP decides_VBZ_B-VP if_IN_B-SBAR he_PRP_B-NP wants_VBZ_B-VP to_TO_I-VP entertain_VB_I-VP us_PRP_B-NP or_CC_B-O enlighten_VB_B-VP us_PRP_B-NP ._._B-O
+the_DT_B-NP result_NN_I-NP is_VBZ_B-VP a_DT_B-NP mess_NN_I-NP ._._B-O
+you_PRP_B-NP can_MD_B-VP feel_VB_I-VP him_PRP_B-NP striving_VBG_B-VP to_TO_I-VP be_VB_I-VP something_NN_B-NP he_PRP_B-NP isn't_RB_B-O ._._I-O
+he_PRP_B-NP tries_VBZ_B-VP to_TO_I-VP pull_VB_I-VP of_IN_B-PP a_DT_B-NP mix_NN_I-NP in_IN_B-PP which_WDT_B-NP drag_VBP_B-VP queens_NNS_B-NP are_VBP_B-VP filmed_VBN_I-VP from_IN_B-PP purposefully_RB_B-NP arty_JJ_I-NP angles_NNS_I-NP ._._B-O
+he_PRP_B-NP tries_VBZ_B-VP very_RB_B-ADVP hard_RB_I-ADVP ._._B-O
+key_JJ_B-NP word_NN_I-NP :_:_B-O tries_VBZ_B-VP ._._B-O
+"_``_B-O oh_NN_B-VP look_VB_I-VP ,_,_B-O he's_NN_B-NP filming_VBG_B-VP above_IN_B-PP water_NN_B-NP action_NN_I-NP from_IN_B-PP below_RB_B-ADVP ._._B-O
+pretty_RB_B-ADVP ._._B-O
+what_WP_B-NP does_VBZ_B-O it_PRP_B-NP represent_VB_B-VP ?_._B-O "_._I-O
+why_WRB_B-ADVP do_VBP_B-O people_NNS_B-NP do_VB_B-VP ugly_JJ_B-NP things_NNS_I-NP ?_._B-O
+i_PRP_B-NP scrambled_VBD_B-VP away_RB_B-ADVP from_IN_B-PP my_PRP$_B-NP tv_NN_I-NP set_VBD_B-VP feeling_NN_B-NP guilty_JJ_B-ADJP as_IN_B-SBAR if_IN_I-SBAR i_PRP_B-NP could_MD_B-VP never_RB_I-VP read_VB_I-VP the_DT_B-NP play_NN_I-NP again_RB_B-ADVP and_CC_B-O keep_VB_B-VP a_DT_B-NP straight_JJ_I-NP face_NN_I-NP ._._B-O
