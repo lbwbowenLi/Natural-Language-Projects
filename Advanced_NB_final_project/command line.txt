@@ -1,0 +1,1 @@
+python NaiveBayes2.py ./tagged
